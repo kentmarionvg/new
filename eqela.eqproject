@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# New
+#
+
+projectname: New
+vendorid: com.marion.example
+mainmodule: com.marion.example.new
